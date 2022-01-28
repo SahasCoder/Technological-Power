@@ -1,0 +1,71 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2020/04/12/20/37/abstract-5035778_960_720.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+h1{
+    color: aqua;
+}
+
+img{
+    width: 278px;
+}
+
+.p{
+    color: yellow;
+}
+
+.header
+{
+	color: white;font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+.header img
+{
+	width: 80px;margin-left: -15px;
+}
+
+.login_div
+{
+	background: rgba(255,255,255,0.8);float: none;border-radius: 15px;
+}
+
+.logo
+{
+	width: 80px;margin-top: 30px;border-radius: 40px;
+}
+
+#login_button
+{
+	width: 80%;border-radius: 15px;
+}
+
+.body_reset{
+    background-image: url(https://thumbs.dreamstime.com/b/forgot-your-password-inscription-card-lock-background-computer-keyboard-forgot-your-password-208814864.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.body_login{
+    background-image: url(https://lh3.googleusercontent.com/Dze8DfHhM9LbORvrpW1FQmOSlwuzsB7Y1GN7MSOAIIwlx7L_SdT2dYmTm10c7I_7_H9cj1Y_I7eHn5LsIy1NghD8ZBUFk5ZyD9yUnQ=w600);
+    background-position: center;
+    background-size: cover;
+}
+
+.body_signup{
+    background-image: url(https://qtxasset.com/quartz/qcloud4/media/image/sensorsmag/1541084677/MARKET_1.gif?VersionId=RMmpw.36RkDvuukQoO_CuNzPJHcJ2cXY);
+    background-position: center;
+    background-size: cover;
+}
+
+.top_item{
+    text-align: right;
+    height: fit-content;
+    background-color: grey;
+}
